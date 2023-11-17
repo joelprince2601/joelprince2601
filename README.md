@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joelprince2601
+- 👋 Hi, I’m Joel Prince
 - 👀 I’m interested in Hacking and programing with python
 - 🌱 I’m currently learning Pen Testing
 - 📫 you can reach me on joelprince10101@gmail.com
