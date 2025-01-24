@@ -1,7 +1,8 @@
 # 💫 About Me:
 👋 Hi there! I'm Joel Prince<br>🎓 B.Tech CSE Student at VIT Chennai | Member of HackClub VIT & Linux Club<br><br>💻 Passionate about full-stack development, machine learning, and creating impactful software solutions. I've worked on exciting projects, including:<br><br>🚀 Stock Market Bot: A Chrome extension leveraging ML and image processing for real-time trading insights.<br>🛠️ Real-Time Traffic Monitoring: YOLOv4-powered dynamic traffic control system.<br>📜 Skills: Python, C++, Java, React.js, MySQL, Pentesting, Unity, Unreal Engine.<br>🎖️ Certified in cybersecurity, ethical hacking, and database management by Google, Meta, and ZSecurity.<br><br>🌟 Currently:<br><br>Exploring Linux systems and promoting open-source adoption with my peers.<br>Managing and organizing hackathons and coding events with CodeChef-VIT.
 
-https://resume-ten-snowy.vercel.app/
+Check out my resume! 
+https://about-joelprince.vercel.app/
 
 
 ## 🌐 Socials:
